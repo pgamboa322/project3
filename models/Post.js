@@ -9,6 +9,12 @@ const PostSchema = new Schema(
       required: 'Title is Required'
     },
 
+    username: {
+        type: Schema.Types.ObjectId,
+        trim: true,
+
+    },
+
     petName: {
       type: String,
       trim: true,
