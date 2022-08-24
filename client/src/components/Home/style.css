@@ -1,0 +1,22 @@
+.bannerText {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.petDiv {
+    padding-left: 20px;
+    justify-content: center;
+}
+
+.cardDiv {
+    
+    width: 280px;
+}
+
+.bannerRow {
+    padding-bottom: 75px;
+}
+
+.alertDiv {
+    padding-left: 20px;
+    padding-right: 20px;
+}
