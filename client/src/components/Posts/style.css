@@ -2,3 +2,13 @@
     padding-left: 150px;
     padding-right: 150px;
 }
+
+.profileRow {
+    padding-top: 30px;
+}
+
+.profileBtn {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}

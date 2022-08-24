@@ -14,7 +14,7 @@ const Dashboard = () => {
         <Col md={2}></Col>
         <Col md={4}>
           <Card className="cardDiv">
-            <Card.Img variant="top" src={Ruby} />
+            <Card.Img variant="top" src={Ruby} className="image" />
             <Card.Body>
               <Card.Title>Ruby</Card.Title>
               <Card.Text>
@@ -26,7 +26,7 @@ const Dashboard = () => {
           </Card>
         </Col>
         <Col md={4}>
-        <Card>
+        <Card className="cardComment">
             <Card.Header>Date Posted: 10/23/21 @ 10:50 AM</Card.Header>
             <Card.Body>
               <Card.Text>
@@ -35,7 +35,7 @@ const Dashboard = () => {
             </Card.Body>
           </Card>
           <br/>
-          <Card>
+          <Card className="cardComment">
             <Card.Header>Date Posted: 8/11/22 @ 8:17 AM</Card.Header>
             <Card.Body>
               <Card.Text>

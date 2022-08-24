@@ -10,6 +10,8 @@
 .cardDiv {
     
     width: 280px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: none;
 }
 
 .bannerRow {
@@ -23,4 +25,14 @@
 
 .yourPostCard {
     padding-top: 20px;
+}
+
+.cardComment {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: none;
+}
+
+.image {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
 }

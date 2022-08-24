@@ -7,7 +7,7 @@ const Comment = () => {
     <>
       <div className="commentFeedDiv">
         <h3>Comments</h3>
-        <Card>
+        <Card className="cardComment">
           <Card.Header>Date Posted: 8/11/22 @ 8:17 AM</Card.Header>
           <Card.Body>
             <Card.Text>
@@ -16,7 +16,7 @@ const Comment = () => {
           </Card.Body>
         </Card>
         <br/>
-        <Card>
+        <Card className="cardComment">
           <Card.Header>Date Posted: 8/12/22 @ 10:37 AM</Card.Header>
           <Card.Body>
             <Card.Text>
@@ -25,7 +25,7 @@ const Comment = () => {
           </Card.Body>
         </Card>
         <br/>
-        <Card>
+        <Card className="cardComment">
           <Card.Header>Date Posted: 8/13/22 @ 2:52 PM</Card.Header>
           <Card.Body>
             <Card.Text>
