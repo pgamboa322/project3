@@ -13,21 +13,21 @@
    [Contributors](#Contributors)
    
 
-##Description
+## Description
 A social app that allows a  user to post to other users details on their lost pet so other users can help find them. The app also allows other users to post about pets they have found. 
 
 ##Screenshot
 
 
 
-##User story
+## User story
 
 
 
-##Built With:
+## Built With:
 
 
-##Contributors:
+## Contributors:
 
 Ethan McCann
 
