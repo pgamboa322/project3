@@ -8,7 +8,7 @@
    
    [User Story](#User-Story)
    
-   [Buit With](#Buit-With:)
+   [Buit With](#Buit-With)
    
    [Contributors](#Contributors)
    
