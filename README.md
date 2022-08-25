@@ -8,7 +8,7 @@
    
    [User Story](#User Story)
    
-   [Buit With](#Buit With)
+   [Buit With](#Buit With:)
    
    [Contributors](#Contributors)
    
@@ -20,7 +20,7 @@ A social app that allows a  user to post to other users details on their lost pe
 
 
 
-## User story
+## User Story
 
 
 
