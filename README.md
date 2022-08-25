@@ -30,7 +30,7 @@ Jeffry Langford, Ethan McCann, Sam Clark, Safiya Simmonds, and Paulina Gamboa.
 
 ## Screenshots
 
-![This image shows the home page and login.](./client/public/images/screenshot1.png)
+![This image shows the home page and login.](./client/public/screenshot1.png)
 
 ## Links
 Deployed link: https://lost-paws.herokuapp.com
