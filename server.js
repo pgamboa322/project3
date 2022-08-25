@@ -4,6 +4,28 @@ const mongoose = require('mongoose');
 const graphqlHTTP = require('express-graphql');
 const schema = require('./graphql/schema');
 const resolvers = require('./graphql/resolvers');
+const multer = require("multer");
+
+// Multer data
+app.use("/images", express.static(path.join(__dirname, "public/img")));
+
+const storage = multer.diskStorage({
+  destination: (req, file, cb) => {
+    cb(null, "public/img");
+  },
+  filename: (req, file, cb) => {
+    cb(null, req.body.name);
+  },
+});
+
+const upload = multer({ storage: storage });
+app.post("/public/upload", upload.single("file"), (req, res) => {
+  try {
+    return res.status(200).json("File uploded successfully");
+  } catch (error) {
+    console.error(error);
+  }
+});
 
 const app = express(); 
 const PORT = 3001; 
