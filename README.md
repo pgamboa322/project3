@@ -1,8 +1,69 @@
-# Getting Started with Create React App
+#Lost Paws
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+   
+   [Description](#Description)
+   
+   [Screenshot](#Installation)
+   
+   [User Story](#User Story)
+   
+   [Buit With](#Buit With)
+   
+   [Contributors](#Contributors)
+   
 
-## Available Scripts
+##Description
+A social app that allows a  user to post to other users details on their lost pet so other users can help find them. The app also allows other users to post about pets they have found. 
+
+##Screenshot
+
+
+
+##User story
+
+
+
+##Built With:
+
+
+##Contributors:
+
+Ethan McCann
+
+Jeffery Langford
+
+Paulina Gamboa
+
+Sam Clark
+
+Safiya Simmonds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 In the project directory, you can run:
 
@@ -68,3 +129,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
