@@ -1,4 +1,4 @@
-#Lost Paws
+## Lost Paws
 
 ## Table of Contents
    
@@ -6,9 +6,9 @@
    
    [Screenshot](#Installation)
    
-   [User Story](#UserStory)
+   [User Story](#User Story)
    
-   [Buit With](#BuitWith)
+   [Buit With](#Buit With)
    
    [Contributors](#Contributors)
    
